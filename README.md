@@ -18,7 +18,7 @@ Lab Orders Star Schema
 ### GivingVeinDW.sql
 The T-SQL statements to create the tables and constraints necessary to build the warehouse infrastructure.
 
-### GivingVeinDW ETL SP.sql
+### GivingVeinDW_ETL_SP.sql
 Contains the T-SQL stored procedures to pull the data from the GivingVein OLTP and load into the data warehouse for consumption and report building.
 
 ### GivingVeinDW.bak
