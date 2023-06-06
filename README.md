@@ -11,7 +11,7 @@ Donations Star Schema
 ![Donations Diagram](https://github.com/waynezc5/GivingVein-DW/blob/main/GivingVein%20Dimensional%20Modeling%20-%20Donations%20Diagram.jpeg)
 
 Lab Orders Star Schema
-![Lab Orders Diagram](https://github.com/waynezc5/GivingVein-DW/blob/main/GivingVein%20Dimensional%20Modeling%20-%20Orders%20Diagram.jpeg)
+
 
 ## Files Included
 
